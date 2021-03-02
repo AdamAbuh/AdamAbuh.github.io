@@ -1,0 +1,35 @@
+body {
+	background-color: #6886e5;
+}
+
+demtext {
+	color: #FFF;
+	text-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px;
+}
+
+.oval{
+	background-color: #795548
+	top: 120px;
+	left: 250px;
+	height: 375px;
+	width: 275px;
+	border-radius: 90px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.mouth{
+	background-color: black;
+	height: 20px;
+	width: 100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.hair{
+	background-color: black;
+	height: 75px;
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
